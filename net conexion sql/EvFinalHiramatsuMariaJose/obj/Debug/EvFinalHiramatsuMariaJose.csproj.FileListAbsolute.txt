@@ -1,0 +1,15 @@
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\bin\Debug\EvFinalHiramatsuMariaJose.exe.config
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\bin\Debug\EvFinalHiramatsuMariaJose.exe
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\bin\Debug\EvFinalHiramatsuMariaJose.pdb
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.csproj.AssemblyReference.cache
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.csproj.SuggestedBindingRedirects.cache
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.Form1.resources
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.Properties.Resources.resources
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.csproj.GenerateResource.cache
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.csproj.CoreCompileInputs.cache
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.exe
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.pdb
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.Form2.resources
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.Form3.resources
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.Form4.resources
+E:\proyectos .net\EvFinalHiramatsuMariaJose\EvFinalHiramatsuMariaJose\obj\Debug\EvFinalHiramatsuMariaJose.Form5.resources
